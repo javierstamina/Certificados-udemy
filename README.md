@@ -42,44 +42,44 @@ Certificados de cursos en Udemy sobre Ofimática, Programación, Scrum, Tester
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Agile%20Tester%20Certification%20Training.jpg" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Agile%20Tester%20Certification%20Training.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Agile%20Tester%20Certification%20Training.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Foundation%20level%20Certification%20(CTFL).jpg" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Foundation%20level%20Certification%20(CTFL).jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/ISQTB%20Foundation%20level%20Certification%20(CTFL).jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
    
-     <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Jenkins%20M%C3%A1ster.jpg" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Jenkins%20M%C3%A1ster.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Jenkins%20M%C3%A1ster.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" target="_blank">
+   <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" target="_blank">
+   <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Programaci%C3%B3n%20con%20VIsual%20Studio%20Code.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Scrum%20Master.jpg" target="_blank">
+   <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Scrum%20Master.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Scrum%20Master.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Selenium%20WebDriver%20-%20Java%2C%20Cucumber%20BDD.jpg" target="_blank">
+   <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Selenium%20WebDriver%20-%20Java%2C%20Cucumber%20BDD.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Selenium%20WebDriver%20-%20Java%2C%20Cucumber%20BDD.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/SonarQube.jpg" target="_blank">
+   <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/SonarQube.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/SonarQube.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
