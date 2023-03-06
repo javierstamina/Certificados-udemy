@@ -32,12 +32,12 @@ Certificados de cursos en Udemy sobre Ofimática, Programación, Scrum, Tester
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/DevOps.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
-    <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker%20and%20Kubernetes.jpg" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker%20and%20Kubernetes.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker%20and%20Kubernetes.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
   
-      <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker.jpg" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker.jpg" target="_blank">
     <img src="https://github.com/javierstamina/Certificados-udemy/blob/master/Docker.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
